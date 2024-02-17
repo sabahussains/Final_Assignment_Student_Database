@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\FirstMvcProject\FirstMvcProject\obj\Debug\FirstMvcProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FirstMvcProject\FirstMvcProject\obj\Debug\FirstMvcProject.csproj.CoreCompileInputs.cache
